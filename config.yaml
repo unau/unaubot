@@ -1,0 +1,6 @@
+consumer_key: "your consumer key"
+consumer_key_secret: "your counsumer key secret"
+access_token: "your access token"
+access_token_secret: "your access token secret"
+my_name: "bot name"
+database: "bot.db"
